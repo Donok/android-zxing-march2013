@@ -4,7 +4,8 @@
 
 
       The project fails to invoke the QR-code scanner and scan a barcode. The conlusion of why this occurs, is 
-      due to perhaps being a bug in the ZXING library.
+      due to perhaps being a bug in the ZXING library. ( Please see Appendix K-Errors Problems and Solutions, of 
+      what was achieved (comment just before conclusion section).)
 
   This project contains 2 zip files, 
       The 1st file is Zxing-2don_k.zip , this is the ZXING library ( which was invoked via the method mentioned here:
