@@ -1,3 +1,19 @@
-  /** Omar Khote - P09289338 - Android proof of concept, QR-barcode reader**/
+  /** Omar Khote - P09289338 -  APPENDIX P - Android proof of concept, QR-barcode reader**/
+
+        Note: The application is incomplete. The '.apk' executable, was not created due to this.
 
 
+      The project fails to invoke the QR-code scanner and scan a barcode. The conlusion of why this occurs, is 
+      due to perhaps being a bug in the ZXING library.
+
+  This project contains 2 zip files, 
+      The 1st file is Zxing-2don_k.zip , this is the ZXING library ( which was invoked via the method mentioned here:
+      http://mukeshyadav4u.blogspot.co.uk/2012/06/integrating-zxing-qr-code-scanner-into.html
+
+      The 2nd file is android.zip ( This contains the main code of the application). This file call's the 1'st file as
+      a library.
+
+      
+
+
+    ( The java build path used for the project was created from version 2.1 of ZXING's library.
